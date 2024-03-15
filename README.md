@@ -1,6 +1,6 @@
 # An Introduction to MATLAB
-In this repository you can find the code examples from the video "An Introduction to MATLAB". 
-Link to the video: 
+In this repository you can find the code examples from the video "An Introduction to MATLAB". \
+Link to the video: https://youtu.be/PgbFv94Mivs .
 
 Hope you find the material useful. 
 
